@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 
 ##Journal de développement (Étapes réalisées)
@@ -37,3 +38,6 @@ Résolution d'un problème de routage majeur (Erreur 404 sur `/product`).
 * `git remote add origin https://github.com/4AT9/tp3_symfony.git
 * **Push :** Envoi sécurisé des sources.
 * `git push -u origin main`
+=======
+# symfonyProjet
+>>>>>>> fec1f20043cf6d1f5d4e5e2e521289c08fa97cb3
